@@ -89,8 +89,8 @@ translations:
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputSdmx
-   source: https://sz.sdmx.afdb.org/ns-ws/rest/dataflow/SZ1/DF_ESWATINI_SDG/1.0/?detail=Full&references=Descendants
-   request_params:
+    source: https://sz.sdmx.afdb.org/ns-ws/rest/dataflow/SZ1/DF_ESWATINI_SDG/1.0/?detail=Full&references=Descendants
+    request_params:
      headers:
        User-Agent: Open-SDG-Build-1
 
