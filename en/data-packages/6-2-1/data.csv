@@ -1,1 +1,16 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+2016,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,,Percent,53.0
+2019,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,,Percent,53.0
+2021,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,,Percent,46.0
+2022,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,,Percent,46.0
+2025,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,,Percent,59.4
+2016,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Rural,Percent,55.0
+2019,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Rural,Percent,55.0
+2021,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Rural,Percent,47.8
+2022,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Rural,Percent,47.8
+2025,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Rural,Percent,62.8
+2016,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Urban,Percent,47.5
+2019,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Urban,Percent,47.5
+2021,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Urban,Percent,42.3
+2022,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Urban,Percent,42.3
+2025,Normal value,Units,"MICS 2021/22, CSO",Proportion of population using safely managed sanitation services [6.2.1],Eswatini,Urban,Percent,49.0

@@ -1,1 +1,16 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,SOURCE_DETAIL,Value
+2016,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,,Percent,"MICS 2021/22, CSO",59.0
+2019,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,,Percent,"MICS 2021/22, CSO",69.5
+2021,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,,Percent,"MICS 2021/22, CSO",75.6
+2022,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,,Percent,"MICS 2021/22, CSO",75.6
+2025,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,,Percent,"MICS 2021/22, CSO",81.2
+2016,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Rural,Percent,"MICS 2021/22, CSO",49.0
+2019,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Rural,Percent,"MICS 2021/22, CSO",61.0
+2021,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Rural,Percent,"MICS 2021/22, CSO",67.4
+2022,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Rural,Percent,"MICS 2021/22, CSO",67.4
+2025,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Rural,Percent,"MICS 2021/22, CSO",76.5
+2016,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Urban,Percent,"MICS 2021/22, CSO",88.0
+2019,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Urban,Percent,"MICS 2021/22, CSO",95.0
+2021,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Urban,Percent,"MICS 2021/22, CSO",92.5
+2022,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Urban,Percent,"MICS 2021/22, CSO",92.5
+2025,Normal value,Units,Proportion of population using safely managed drinking water services [6.1.1],Eswatini,Urban,Percent,"MICS 2021/22, CSO",95.9
