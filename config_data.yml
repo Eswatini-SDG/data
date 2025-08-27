@@ -50,13 +50,13 @@ inputs:
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
-     - NATURE
-     - TIME_PERIOD
-   drop_singleton_dimensions: false
-   import_series_attributes: true
-   import_observation_attributes: true
-   import_codes: true
-   request_params: 
+      - NATURE
+      - TIME_PERIOD
+    drop_singleton_dimensions: false
+    import_series_attributes: true
+    import_observation_attributes: true
+    import_codes: true
+    request_params: 
      headers: 
        User-Agent: Open-SDG-Build-1 
   - class: InputWordMeta
@@ -88,7 +88,7 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
- - class: TranslationInputSdmx
+  - class: TranslationInputSdmx
    source: https://sz.sdmx.afdb.org/ns-ws/rest/dataflow/SZ1/DF_ESWATINI_SDG/1.0/?detail=Full&references=Descendants
    request_params:
      headers:
